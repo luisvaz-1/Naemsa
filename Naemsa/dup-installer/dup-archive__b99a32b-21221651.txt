@@ -1,0 +1,553 @@
+{
+    "dup_type": "lite",
+    "created": "2024-10-21 22:16:51",
+    "version_dup": "1.5.11",
+    "version_wp": "6.6.2",
+    "version_db": "8.0.16",
+    "version_php": "8.1.29",
+    "version_os": "WINNT",
+    "blogname": "Naemsa",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$gCii0xaMiTHKc36PpC7o8.vsoMXsHuRiVU1\/GU\/GRDtkqO\/.5gucS",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "naemsa.local",
+            "path": "\/",
+            "blogname": "Naemsa",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "naemsa",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/naemsa.local",
+            "fullSiteUrl": "https:\/\/naemsa.local",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/wp-content\/uploads",
+            "fullUploadSafePath": "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/naemsa.local\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "PHP",
+        "charSetList": [
+            "utf8mb4",
+            "utf8"
+        ],
+        "collationList": [
+            "utf8_general_ci",
+            "utf8mb4_unicode_520_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "local",
+        "tablesBaseCount": 21,
+        "tablesFinalCount": 21,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 5209,
+        "tablesSizeOnDisk": 40501248,
+        "tablesList": {
+            "wp_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_comments": {
+                "inaccurateRows": 1,
+                "insertedRows": 0,
+                "size": 98304
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp_e_events": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_e_notes": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 196608
+            },
+            "wp_e_notes_users_relations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_e_submissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 262144
+            },
+            "wp_e_submissions_actions_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_e_submissions_values": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_ewwwio_images": {
+                "inaccurateRows": 304,
+                "insertedRows": 311,
+                "size": 131072
+            },
+            "wp_ewwwio_queue": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_options": {
+                "inaccurateRows": 292,
+                "insertedRows": 296,
+                "size": 3194880
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 4003,
+                "insertedRows": 4039,
+                "size": 30277632
+            },
+            "wp_posts": {
+                "inaccurateRows": 530,
+                "insertedRows": 718,
+                "size": 5816320
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 38,
+                "insertedRows": 34,
+                "size": 32768
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 7,
+                "insertedRows": 8,
+                "size": 49152
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_terms": {
+                "inaccurateRows": 7,
+                "insertedRows": 8,
+                "size": 49152
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 27,
+                "insertedRows": 36,
+                "size": 49152
+            },
+            "wp_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 65536
+            }
+        },
+        "lowerCaseTableNames": 1,
+        "dbEngine": "MySQL",
+        "version": "8.0.16",
+        "versionComment": "MySQL Community Server - GPL",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 14,
+        "packageName": "Naemsa",
+        "packageHash": "b99a32b-21221651",
+        "secondaryHash": "472f8d4-21221651"
+    },
+    "fileInfo": {
+        "dirCount": 1214,
+        "fileCount": 7100,
+        "size": 414807113
+    },
+    "wpInfo": {
+        "version": "6.6.2",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public",
+        "targetPaths": [
+            "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "naemsa",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "hL[$cXie -!6|S[=T]X<YBu_INBS,R?c?0o_e}@02S-Awz7yytN_(:s^PT|1Mom>",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "U^BmHqFs(0!U!8DF_7[2s1 0z|AS!guqj3[:]73^#S+~zWIyHL*ozS8Rm]YI9R+h",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "v2zE.!*[tCqw>gm^B&w+^ mIqfY:n:D>IY~9{y[RbCoZ9_V,=ESvgo*vF0zg<mva",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "eS\/N~_>tAG%7\/QG4Ehls~p!JM?\/mqX~Am(b:`Auo0ti5e3nF7;GmYlj(w{kjIB|+",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "O#Wq)idj%smXN~[bfmL i|aD6]5o}2Xm9b_Qac+1@r*~ztq@DbuHIK`@%2oF0J1k",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "E3c#)OUg*v+~hWYtGxJ,r)s?2Vna>=^Sz [f6)jTj%mt0rGfOwnQc;U@nRFLY$3H",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "]dj2B[:MEH~x=;#3}5+9F!$d}Ln:7$t{$MTa4 .2lK(mm-F_V-&R#)&mapW]qVtq",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "b?$IenTkN*5- SORPDW=GXj5)JcVc^!:qc]^8*G$gt8.O?=WS=U3vv4TdUMJQ nX",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/naemsa.local\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/naemsa.local\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": "",
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/wp-content\/themes\/hello-elementor",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/wp-content\/themes\/hello-elementor",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/naemsa.local\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/naemsa.local",
+                "homeUrl": "https:\/\/naemsa.local",
+                "loginUrl": "https:\/\/naemsa.local\/wp-login.php",
+                "contentUrl": "https:\/\/naemsa.local\/wp-content",
+                "uploadBaseUrl": "https:\/\/naemsa.local\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/naemsa.local\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/naemsa.local\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/naemsa.local\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public",
+                    "abs": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public",
+                    "wpconfig": "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public",
+                    "wpcontent": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/wp-content",
+                    "uploads": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/wp-content\/uploads",
+                    "plugins": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/wp-content\/plugins",
+                    "muplugins": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/wp-content\/mu-plugins",
+                    "themes": "C:\\Users\\archi\\Local Sites\\naemsa\\app\\public\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public",
+                    "abs": "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public",
+                    "wpconfig": "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public",
+                    "wpcontent": "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public\/wp-content",
+                    "uploads": "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public\/wp-content\/uploads",
+                    "plugins": "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public\/wp-content\/plugins",
+                    "muplugins": "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public\/wp-content\/mu-plugins",
+                    "themes": "C:\/Users\/archi\/Local Sites\/naemsa\/app\/public\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "better-search-replace\/better-search-replace.php": {
+                "slug": "better-search-replace\/better-search-replace.php",
+                "name": "Better Search Replace",
+                "version": "1.4.7",
+                "pluginURI": "https:\/\/bettersearchreplace.com",
+                "author": "WP Engine",
+                "authorURI": "https:\/\/bettersearchreplace.com",
+                "description": "A small plugin for running a search\/replace on your WordPress database.",
+                "title": "Better Search Replace",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.11",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "3.24.0",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor-pro\/elementor-pro.php": {
+                "slug": "elementor-pro\/elementor-pro.php",
+                "name": "Elementor Pro",
+                "version": "3.24.0",
+                "pluginURI": "https:\/\/go.elementor.com\/wp-dash-wp-plugins-author-uri\/",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/go.elementor.com\/wp-dash-wp-plugins-author-uri\/",
+                "description": "Elevate your designs and unlock the full power of Elementor. Gain access to dozens of Pro widgets and kits, Theme Builder, Pop Ups, Forms and WooCommerce building capabilities.",
+                "title": "Elementor Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ewww-image-optimizer\/ewww-image-optimizer.php": {
+                "slug": "ewww-image-optimizer\/ewww-image-optimizer.php",
+                "name": "EWWW Image Optimizer",
+                "version": "7.9.0",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/ewww-image-optimizer\/",
+                "author": "Exactly WWW",
+                "authorURI": "https:\/\/ewww.io\/",
+                "description": "Smaller Images, Faster Sites, Happier Visitors. Comprehensive image optimization that doesn't require a degree in rocket science.",
+                "title": "EWWW Image Optimizer",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "creame-whatsapp-me\/joinchat.php": {
+                "slug": "creame-whatsapp-me\/joinchat.php",
+                "name": "Joinchat",
+                "version": "5.1.8",
+                "pluginURI": "https:\/\/join.chat",
+                "author": "Creame",
+                "authorURI": "https:\/\/crea.me",
+                "description": "Connects a WordPress chat with WhatsApp. The best solution for marketing and support. Stop losing customers and increase your sales.",
+                "title": "Joinchat",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "hello-elementor": {
+                "slug": "hello-elementor",
+                "themeName": "Hello Elementor",
+                "version": "3.1.1",
+                "themeURI": "https:\/\/elementor.com\/hello-theme\/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash",
+                "parentTheme": false,
+                "template": "hello-elementor",
+                "stylesheet": "hello-elementor",
+                "description": "Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work seamlessly with the Elementor site builder plugin. The theme is free, open-source, and designed for users who want a flexible, easy-to-use, and customizable website. The theme, which is optimized for performance, provides a solid foundation for users to build their own unique designs using the Elementor drag-and-drop site builder. Its simplicity and flexibility make it a great choice for both beginners and experienced Web Creators.",
+                "author": "Elementor Team",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash",
+                "tags": [
+                    "accessibility-ready",
+                    "flexible-header",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "featured-images",
+                    "rtl-language-support",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "Naemsa"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "Naemsa_b99a32b42950ce7c2945_20241021221651_installer-backup.php",
+    "package_name": "Naemsa_b99a32b42950ce7c2945_20241021221651_archive.zip",
+    "package_hash": "b99a32b-21221651",
+    "package_notes": ""
+}
