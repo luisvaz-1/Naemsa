@@ -78,6 +78,11 @@ No está autorizado su uso o distribución sin permiso del propietario.
 Para soporte o mantenimiento técnico:
 -  **contacto@naemsa.com**  
 -  **[www.naemsa.com](https://www.naemsa.com)**  
+-  **luisherreravazquez63@gmail.com**  
+
+
+Este repositorio sirve como respaldo y punto de despliegue del sitio web de Naemsa.
+
 
 ---
 
